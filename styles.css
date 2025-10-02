@@ -1,0 +1,7 @@
+h1 {   color: rgb(0, 84, 153); font-size:x-large; text-align: center;}
+h2{ color: rgb(0, 84, 153); font-size:x-large;position: absolute;right: 260px;top: 35px;}
+h6{color: rgb(0, 84, 153); font-size:x-large;position: absolute;left: 260px;top: 0px;}
+h3 {color: rgb(5, 116, 207) ;font-size: large; text-align: right;}
+h4 { color: rgb(5, 116, 207) ;font-size: large;left: auto}
+h5 {color: rgb(75, 1, 124);font-size: x-large;position: absolute;top: 1500px;right: 450px;  }
+p  {color: rgb(75, 1, 124) ;font-size: x-large;text-align: center;}
